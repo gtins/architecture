@@ -33,5 +33,6 @@ public class Exemplo {
 
         Escritor escritor = new Escritor();
         escritor.escrever(arr);
+        
     }
 }
